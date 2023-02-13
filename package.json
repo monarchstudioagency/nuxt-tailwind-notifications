@@ -1,0 +1,25 @@
+{
+  "name": "@thomsmonarch/tw-notify",
+  "version": "0.0.3",
+  "description": "Nuxt.js Tailwind Notification package based on vt-notifications",
+  "main": "index.js",
+  "keywords": [
+    "Nuxt.js",
+    "Nuxt",
+    "Icons",
+    "Notifications",
+    "Toast",
+    "Tailwind",
+    "TailwindCSS"
+  ],
+  "author": "Monarch Studio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monarchstudioagency/nuxt-tailwind-notifications.git"
+  },
+  "bugs": {
+    "url": "https://github.com/monarchstudioagency/nuxt-tailwind-notifications/issues"
+  },
+  "homepage": "https://github.com/monarchstudioagency/nuxt-tailwind-notifications#readme"
+}
