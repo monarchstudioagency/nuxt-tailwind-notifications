@@ -1,6 +1,6 @@
 
 <script>
-import { state, methods } from "./notifications.js";
+import { state, methods } from "../notifications.js";
 export default {
   inject: {
     context: { default: { group: "", position: "top" } },
